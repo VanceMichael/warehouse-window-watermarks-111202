@@ -1,0 +1,16 @@
+{
+  "readings": [
+    {
+      "event": "e1",
+      "device": "d1",
+      "instant": "2026-10-01T00:01:00+00:00",
+      "units": 2
+    },
+    {
+      "event": "e2",
+      "device": "d2",
+      "instant": "2026-10-01T00:03:00+00:00",
+      "units": 3
+    }
+  ]
+}
