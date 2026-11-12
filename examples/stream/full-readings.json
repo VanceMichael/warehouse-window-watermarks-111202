@@ -1,0 +1,17 @@
+{
+  "readings": [
+    {"event": "e-d1-001", "device": "d1", "instant": "2026-10-01T10:05:00+00:00", "units": 10},
+    {"event": "e-d1-002", "device": "d1", "instant": "2026-10-01T10:02:00+00:00", "units": 5},
+    {"event": "e-d1-003", "device": "d1", "instant": "2026-10-01T11:20:00+00:00", "units": 11},
+    {"event": "e-d1-004", "device": "d1", "instant": "2026-10-01T12:10:00+00:00", "units": 13},
+    {"event": "e-d1-005", "device": "d1", "instant": "2026-10-01T12:50:00+00:00", "units": 4},
+    {"event": "e-d1-006", "device": "d1", "instant": "2026-10-01T23:50:00+00:00", "units": 6},
+    {"event": "e-d1-007", "device": "d1", "instant": "2026-10-02T00:20:00+00:00", "units": 3},
+    {"event": "e-d2-001", "device": "d2", "instant": "2026-10-01T10:10:00+00:00", "units": 7},
+    {"event": "e-d2-002", "device": "d2", "instant": "2026-10-01T10:40:00+00:00", "units": 8},
+    {"event": "e-d2-003", "device": "d2", "instant": "2026-10-01T10:15:00+00:00", "units": 100},
+    {"event": "e-d2-004", "device": "d2", "instant": "2026-10-01T08:30:00+00:00", "units": 60},
+    {"event": "e-d2-005", "device": "d2", "instant": "2026-10-01T12:30:00+00:00", "units": 9},
+    {"event": "e-d2-006", "device": "d2", "instant": "2026-10-02T00:05:00+00:00", "units": 4}
+  ]
+}

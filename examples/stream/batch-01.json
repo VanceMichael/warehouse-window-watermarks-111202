@@ -1,0 +1,8 @@
+{
+  "records": [
+    {"partition": "d1", "position": 1, "event": "e-d1-001", "instant": "2026-10-01T10:05:00+00:00", "units": 10},
+    {"partition": "d1", "position": 2, "event": "e-d1-002", "instant": "2026-10-01T10:02:00+00:00", "units": 5},
+    {"partition": "d2", "position": 1, "event": "e-d2-001", "instant": "2026-10-01T10:10:00+00:00", "units": 7},
+    {"partition": "d2", "position": 2, "event": "e-d2-002", "instant": "2026-10-01T10:40:00+00:00", "units": 8}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "records": [
+    {"partition": "d1", "position": 6, "event": "e-d1-006", "instant": "2026-10-01T23:50:00+00:00", "units": 6},
+    {"partition": "d2", "position": 6, "event": "e-d2-006", "instant": "2026-10-02T00:05:00+00:00", "units": 4}
+  ]
+}

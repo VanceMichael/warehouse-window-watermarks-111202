@@ -1,0 +1,5 @@
+{
+  "records": [
+    {"partition": "d1", "position": 7, "event": "e-d1-007", "instant": "2026-10-02T00:20:00+00:00", "units": 3}
+  ]
+}
